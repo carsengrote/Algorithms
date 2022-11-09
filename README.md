@@ -1,5 +1,5 @@
 # Algorithms
-Programs written for my algorithms class (Comp Sci 577) at UW-Madison
+Programs written for my algorithms class (Comp Sci 577) at UW-Madison.  The input for the programs are given in a specific way that is specified by the homework prompts.  If curious about the prompts just ask me and I likely can provide. 
 
 HW 2 - dfs.py: Depth First Search <br/>
 HW 3 - sched.py: Optimal Interval Scheduling <br/>
